@@ -63,7 +63,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Powered by Kapani.",
-                "url": "https://www.stackbit.com",
+                "url": "https://www.kapani.xyz",
                 "style": "link",
                 "new_window": true
             }
