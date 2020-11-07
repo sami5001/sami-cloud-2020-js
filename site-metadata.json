@@ -62,7 +62,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Made with Stackbit.",
+                "label": "Powered by Kapani.",
                 "url": "https://www.stackbit.com",
                 "style": "link",
                 "new_window": true
