@@ -103,7 +103,7 @@
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
-                "icon_class": "fa-e",
+                "icon_class": "fa-envelope",
                 "new_window": true
             }
         ]
