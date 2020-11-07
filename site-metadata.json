@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Exto Theme",
-    "description": "A portfolio theme with a blog",
-    "color_scheme": "light",
-    "accent_color": "pink",
+    "title": "sami.cloud",
+    "description": "Sami's personal website",
+    "color_scheme": "dark",
+    "accent_color": "blue",
     "header": {
         "type": "header",
         "template": "header",
-        "title": "Exto",
+        "title": "sami.cloud",
         "has_nav": true,
         "nav_links": [
             {
@@ -51,18 +51,19 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/sami_cloud-logo_wht.svg"
     },
     "footer": {
         "type": "footer",
         "template": "footer",
-        "content": "&copy; Stackbit-Exto. All rights reserved.",
+        "content": "&copy; 2020 Hassan Sami Adnan. All rights reserved.",
         "links": [
             {
                 "type": "action",
                 "template": "action",
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
+                "label": "Powered by Kapani.",
+                "url": "https://www.kapani.xyz",
                 "style": "link",
                 "new_window": true
             }
@@ -73,7 +74,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/hsami/",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
@@ -82,7 +83,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/hsami/",
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
@@ -90,19 +91,19 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Github",
+                "url": "https://github.com/sami5001/",
                 "style": "icon",
-                "icon_class": "fa-dribbble",
+                "icon_class": "fa-github",
                 "new_window": true
             },
             {
                 "type": "action",
                 "template": "action",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "mailto:sami@kapani.de",
                 "style": "icon",
-                "icon_class": "fa-linkedin",
+                "icon_class": "fa-paper-plane",
                 "new_window": true
             }
         ]
