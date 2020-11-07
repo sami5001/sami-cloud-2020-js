@@ -96,15 +96,6 @@
                 "style": "icon",
                 "icon_class": "fa-github",
                 "new_window": true
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "LinkedIn",
-                "url": "mailto:sami@kapani.de",
-                "style": "icon",
-                "icon_class": "fa-paper-plane",
-                "new_window": true
             }
         ]
     }
