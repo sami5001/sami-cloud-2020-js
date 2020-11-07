@@ -101,7 +101,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "mailto:sami@kapani.de",
                 "style": "icon",
                 "icon_class": "fa-paper-plane",
                 "new_window": true
