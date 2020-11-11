@@ -65,7 +65,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: Learn more...
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
