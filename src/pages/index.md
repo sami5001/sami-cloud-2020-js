@@ -31,7 +31,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
-    is_numbered: false
+    is_numbered: true
     grid_items:
       - title: lorem-ipsum
         content: >-
