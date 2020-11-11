@@ -28,9 +28,7 @@ sections:
         url: /contact
         style: button
   - title: Current research projects
-    section_id: >-
-      These are current ongoing projects that I am working on. More information
-      will be available soon.
+    section_id: Current projects
     subtitle: lorem-ipsum
     col_number: three
     is_numbered: true
