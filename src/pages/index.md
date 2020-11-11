@@ -75,7 +75,7 @@ sections:
         image: /images/smartER-Logo_white.png
       - title: Deep Learning
         content: >-
-          ## Lorem ipsum
+          ## Digitising paper-based clinical records
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
