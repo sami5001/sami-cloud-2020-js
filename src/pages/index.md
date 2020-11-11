@@ -27,7 +27,7 @@ sections:
         label: Let's talk
         url: /contact
         style: button
-  - title: Current research projects
+  - title: Digital Health research projects
     section_id: Current projects
     subtitle: >-
       These are current ongoing projects that I am working on. More information
