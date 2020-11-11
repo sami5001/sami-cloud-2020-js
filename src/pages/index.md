@@ -66,7 +66,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-        image: /images/smartER logo.001.png
+        image: /images/smartER-Logo_white.png
     type: section_grid
     template: section_grid
 template: advanced
