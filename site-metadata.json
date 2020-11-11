@@ -12,13 +12,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
