@@ -47,7 +47,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-        image: /images/Logo_blk_roomOS-mosaic.png
+        image: /images/Logo_transparent_roomOS-rec.001.png
     type: section_grid
     template: section_grid
 template: advanced
