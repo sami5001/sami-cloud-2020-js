@@ -14,7 +14,7 @@
                 "template": "action",
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "button"
             }
         ],
         "logo_img": "/images/sami_cloud-logo_wht.svg"
