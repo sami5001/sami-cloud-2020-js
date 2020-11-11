@@ -47,7 +47,7 @@ sections:
           - dolor sit amet
         actions:
           - label: Learn more...
-            url: lorem-ipsum
+            url: 'https://roomos.health/'
             style: link
             icon_class: lorem-ipsum
             new_window: false
