@@ -54,12 +54,8 @@ sections:
         content: >-
           ## smartER
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          A smart platform for managing emergency room resource allocation
+          during volatile case load demands.
         actions:
           - label: Learn more...
             url: 'https://roomos.health/smartER/'
