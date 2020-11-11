@@ -35,7 +35,7 @@ sections:
     col_number: three
     is_numbered: true
     grid_items:
-      - title: lorem-ipsum
+      - title: Human Centred AI Design
         content: >-
           ## Lorem ipsum
 
