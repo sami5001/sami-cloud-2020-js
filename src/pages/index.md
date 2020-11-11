@@ -45,7 +45,13 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
         image: /images/Logo_transparent_roomOS-rec.001.png
     type: section_grid
