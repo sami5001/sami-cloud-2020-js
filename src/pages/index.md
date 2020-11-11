@@ -56,7 +56,7 @@ sections:
         image: /images/roomOS_logo_t_rec.010.png
       - title: Human Centred AI Design
         content: >-
-          ## Lorem ipsum
+          ## smartER
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
