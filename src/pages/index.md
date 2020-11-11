@@ -33,7 +33,7 @@ sections:
       These are current ongoing projects that I am working on. More information
       will be available soon.
     col_number: three
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Human Centred AI Design
         content: >-
