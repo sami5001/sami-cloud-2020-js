@@ -28,7 +28,7 @@ sections:
         url: /contact
         style: button
   - title: Current research projects
-    section_id: lorem-ipsum
+    section_id: These are current on
     subtitle: lorem-ipsum
     col_number: three
     is_numbered: true
