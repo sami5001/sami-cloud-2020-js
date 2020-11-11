@@ -32,7 +32,7 @@ sections:
     subtitle: >-
       These are current ongoing projects that I am working on. More information
       will be available soon.
-    col_number: three
+    col_number: two
     is_numbered: true
     grid_items:
       - title: Human Centred AI Design
