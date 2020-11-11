@@ -85,6 +85,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/google_ai.png
     type: section_grid
     template: section_grid
 template: advanced
