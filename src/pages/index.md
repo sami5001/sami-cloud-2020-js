@@ -54,7 +54,7 @@ sections:
             type: action
         type: grid_item
         image: /images/Logo_transparent_roomOS-rec.001.png
-      - title: lorem-ipsum
+      - title: Human Centred AI Design
         content: >-
           ## Lorem ipsum
 
