@@ -4,102 +4,81 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: Hassan Sami Adnan
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      <img src="/images/sami_.png" align="right">
+
+
+      Associate of _The Royal Society for Public Health, UK_  
+
+      Founder of _Kapani IT Systems and Solutions_  
+
+      Member of the _European AI Alliance_  
+
+
+      Currently my research interests are Electronic Health Records and its
+      regulatory aspects; along with Biobanking, Medical Ethics, Patient Data
+      Privacy, and the application of artificial intelligence of big data in
+      healthcare research/systems.
     actions:
       - type: action
         template: action
         label: Let's talk
         url: /contact
         style: button
-  - type: section_portfolio
-    template: section_portfolio
-    title: Recent Work
-    section_id: latest-projects
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
-  - type: section_grid
-    template: section_grid
-    title: What We Do
-    section_id: services
-    subtitle: An optional subtitle of the section
-    col_number: two
-    is_numbered: true
+  - title: Digital Health Research Projects
+    section_id: Current projects
+    subtitle: >-
+      These are current ongoing projects that I am working on. More information
+      will be available soon.
+    col_number: three
+    is_numbered: false
     grid_items:
-      - type: grid_item
-        template: grid_item
-        title: Service Title
+      - title: Human Centred AI Design
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - type: grid_item
-        template: grid_item
-        title: Service Title
+          ## roomOS
+
+          An integrated in-patient health monitoring system, in collaboration
+          with Mount Sinai Hospital, New York.
+        actions:
+          - label: Learn more...
+            url: 'https://roomos.health/'
+            style: link
+            icon_class: lorem-ipsum
+            new_window: true
+            type: action
+        type: grid_item
+        image: /images/roomOS_logo_t_rec.010.png
+      - title: Human Centred AI Design
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - type: grid_item
-        template: grid_item
-        title: Service Title
+          ## smartER
+
+          A smart platform for managing emergency room resource allocation
+          during volatile case load demands.
+        actions:
+          - label: Learn more...
+            url: 'https://roomos.health/smartER/'
+            style: link
+            icon_class: lorem-ipsum
+            new_window: true
+            type: action
+        type: grid_item
+        image: /images/smartER-Logo_white.png
+      - title: Deep Learning
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - type: grid_item
-        template: grid_item
-        title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - type: section_testimonials
-    template: section_testimonials
-    title: Testimonials
-    section_id: testimonials
-    subtitle: An optional subtitle of the section
-    col_number: three
-    testimonials:
-      - type: testimonial
-        template: testimonial
-        author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - type: testimonial
-        template: testimonial
-        author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - type: testimonial
-        template: testimonial
-        author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
-  - type: section_posts
-    template: section_posts
-    title: Latest from the Blog
-    section_id: latest-posts
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - type: action
-        template: action
-        label: View Blog
-        url: blog
-        style: button
+          ## Digitising paper-based clinical records
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
+        image: /images/google_ai_narrow.png
+    type: section_grid
+    template: section_grid
 template: advanced
 ---

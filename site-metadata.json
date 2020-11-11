@@ -12,44 +12,9 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "button"
             }
         ],
         "logo_img": "/images/sami_cloud-logo_wht.svg"
