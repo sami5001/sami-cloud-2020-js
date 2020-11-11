@@ -7,8 +7,20 @@ sections:
     title: Hassan Sami Adnan
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      <img src="">
+
+
+      Associate of The Royal Society for Public Health, UK  
+
+      Founder of Kapani IT Systems and Solutions  
+
+      Member of the European AI Alliance  
+
+
+      Currently my research interests are Electronic Health Records and its
+      regulatory aspects; along with Biobanking, Medical Ethics, Patient Data
+      Privacy, and the application of artificial intelligence of big data in
+      healthcare research/systems.
     actions:
       - type: action
         template: action
