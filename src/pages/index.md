@@ -7,7 +7,7 @@ sections:
     title: Hassan Sami Adnan
     section_id: hero
     content: >-
-      <img src="">
+      <img src="sami_.png">
 
 
       Associate of The Royal Society for Public Health, UK  
