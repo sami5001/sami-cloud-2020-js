@@ -10,11 +10,11 @@ sections:
       <img src="/images/sami_.png" align="right">
 
 
-      Associate of The Royal Society for Public Health, UK  
+      Associate of _The Royal Society for Public Health, UK_  
 
-      Founder of Kapani IT Systems and Solutions  
+      Founder of _Kapani IT Systems and Solutions_  
 
-      Member of the European AI Alliance  
+      Member of the _European AI Alliance_  
 
 
       Currently my research interests are Electronic Health Records and its
