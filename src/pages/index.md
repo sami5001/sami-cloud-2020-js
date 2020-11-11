@@ -53,7 +53,7 @@ sections:
             new_window: true
             type: action
         type: grid_item
-        image: /images/Logo_transparent_roomOS-rec.001.png
+        image: /images/roomOS_logo_t_rec.010.png
       - title: Human Centred AI Design
         content: >-
           ## Lorem ipsum
