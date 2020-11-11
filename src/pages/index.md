@@ -66,7 +66,7 @@ sections:
           - dolor sit amet
         actions:
           - label: Learn more...
-            url: 'https://roomos.health/smartER'
+            url: 'https://roomos.health/smartER/'
             style: link
             icon_class: lorem-ipsum
             new_window: false
