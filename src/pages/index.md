@@ -73,7 +73,7 @@ sections:
             type: action
         type: grid_item
         image: /images/smartER-Logo_white.png
-      - title: lorem-ipsum
+      - title: Deep Learning
         content: >-
           ## Lorem ipsum
 
