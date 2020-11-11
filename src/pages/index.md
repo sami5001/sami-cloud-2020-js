@@ -69,7 +69,7 @@ sections:
             url: 'https://roomos.health/smartER/'
             style: link
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
             type: action
         type: grid_item
         image: /images/smartER-Logo_white.png
