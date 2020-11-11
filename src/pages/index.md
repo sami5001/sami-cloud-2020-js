@@ -37,7 +37,7 @@ sections:
     grid_items:
       - title: Human Centred AI Design
         content: >-
-          ## Lorem ipsum
+          ## roomOS
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
