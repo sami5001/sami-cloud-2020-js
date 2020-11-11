@@ -50,7 +50,7 @@ sections:
             url: 'https://roomos.health/'
             style: link
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
             type: action
         type: grid_item
         image: /images/Logo_transparent_roomOS-rec.001.png
