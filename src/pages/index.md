@@ -39,12 +39,8 @@ sections:
         content: >-
           ## roomOS
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          An integrated in-patient health monitoring system, in collaboration
+          with Mount Sinai Hospital, New York.
         actions:
           - label: Learn more...
             url: 'https://roomos.health/'
