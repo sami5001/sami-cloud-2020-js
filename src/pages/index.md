@@ -48,7 +48,7 @@ sections:
         actions:
           - label: Learn more...
             url: 'https://roomos.health/'
-            style: button
+            style: link
             icon_class: lorem-ipsum
             new_window: false
             type: action
