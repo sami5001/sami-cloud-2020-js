@@ -6,35 +6,7 @@ sections:
     template: section_hero
     title: Hassan Sami Adnan
     section_id: hero
-    content: >-
-
-      img {
-        border: 1px solid #ddd;
-        border-radius: 4px;
-        padding: 5px;
-        width: 150px;
-      }
-
-
-      <img src="/images/sami_.png" align="right">
-
-
-      - Associate of _The Royal Society for Public Health, UK_  
-
-      - Co-founder of [_Collectivize Health_](https://collectivize.health)
-
-      - Member of the _European AI Alliance_  
-
-
-      Hi! I'm a healthcare professional and developer of Digital Health
-      solutions. My current area of focus is _Human Centred AI Design_, with
-      particular interest in digital transformation of clinical workflows.
-
-
-      My other research interests and expertise are in Electronic Health Records
-      and its regulatory aspects; along with Biobanking, Medical Ethics, Patient
-      Data Privacy, and the application of artificial intelligence of big data
-      in healthcare research/systems.
+    content: "<style>\n\tdiv.profileimg {\n  \tborder: 1px solid #ddd;\n  \tborder-radius: 4px;\n  \tpadding: 5px;\n  \twidth: 150px;\n\t}\n</style>\n<div class=div.profileimg>\n<img src=\"/images/sami_.png\" align=\"right\">\n</div>\n- Associate of _The Royal Society for Public Health, UK_  \n- Co-founder of [_Collectivize Health_](https://collectivize.health)\n- Member of the _European AI Alliance_  \n\nHi! I'm a healthcare professional and developer of Digital Health solutions. My current area of focus is _Human Centred AI Design_, with particular interest in digital transformation of clinical workflows.\n\nMy other research interests and expertise are in Electronic Health Records and its regulatory aspects; along with Biobanking, Medical Ethics, Patient Data Privacy, and the application of artificial intelligence of big data in healthcare research/systems."
     actions:
       - type: action
         template: action
