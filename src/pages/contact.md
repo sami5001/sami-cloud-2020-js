@@ -35,6 +35,7 @@ sections:
           - Research Interest
           - Digital Health
           - Other
+          - lorem-ipsum
       - type: form_field
         template: form_field
         input_type: textarea
