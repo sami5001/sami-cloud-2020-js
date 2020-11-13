@@ -78,7 +78,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/google_ai_narrow.png
-      - title: lorem-ipsum
+      - title: Mental Health
         content: >-
           ## Lorem ipsum
 
