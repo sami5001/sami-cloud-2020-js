@@ -36,6 +36,7 @@ sections:
           - Digital Health
           - Public Health
           - Other
+        is_required: true
       - type: form_field
         template: form_field
         input_type: textarea
