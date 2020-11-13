@@ -10,17 +10,22 @@ sections:
       <img src="/images/sami_.png" align="right">
 
 
-      Associate of _The Royal Society for Public Health, UK_  
+      - Associate of _The Royal Society for Public Health, UK_  
 
-      Founder of _Kapani IT Systems and Solutions_  
+      - Co-founder of [_Collectivize Health_](https://collectivize.health)
 
-      Member of the _European AI Alliance_  
+      - Member of the _European AI Alliance_  
 
 
-      Currently my research interests are Electronic Health Records and its
-      regulatory aspects; along with Biobanking, Medical Ethics, Patient Data
-      Privacy, and the application of artificial intelligence of big data in
-      healthcare research/systems.
+      Hi! I'm a healthcare professional and developer of Digital Health
+      solutions. My current area of focus is _Human Centred AI Design_, with
+      particular interest in digital transformation of clinical workflows.
+
+
+      My other research interests and expertise are in Electronic Health Records
+      and its regulatory aspects; along with Biobanking, Medical Ethics, Patient
+      Data Privacy, and the application of artificial intelligence of big data
+      in healthcare research/systems.
     actions:
       - type: action
         template: action
