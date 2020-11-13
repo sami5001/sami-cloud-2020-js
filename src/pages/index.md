@@ -44,7 +44,7 @@ sections:
           during volatile case load demands.
         actions:
           - label: Learn more...
-            url: 'https://roomos.health/smartER/'
+            url: 'https://roomos.health/smarter/'
             style: link
             icon_class: lorem-ipsum
             new_window: true
