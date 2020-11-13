@@ -80,14 +80,15 @@ sections:
         image: /images/google_ai_narrow.png
       - title: Mental Health
         content: >-
-          ## Lorem ipsum
+          ## Mental Health monitoring with Deep Learning
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          In this project, we are developing an analytical workflow to
+          complement clinical assessment of a person's mental health. We explore
+          data acquisition from multiple modalities and use deep learning tools
+          for sentiment analysis.
 
-          - Lorem ipsum
 
-          - dolor sit amet
+          _More information coming soon..._
         actions: []
         type: grid_item
         image: /images/chris-liverani-dBI_My696Rk-unsplash.jpg
