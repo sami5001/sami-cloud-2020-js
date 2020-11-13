@@ -1,6 +1,6 @@
 ---
 title: Thank You!
-image: images/thank-you.jpg
+image: /images/pete-pedroza-VyC0YSFRDTU-unsplash.jpg
 template: page
 ---
 
