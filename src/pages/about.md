@@ -1,6 +1,6 @@
 ---
 title: About Sami
-subtitle: This is a short page about Sami and his work.
+subtitle: This is a short page about me and his work.
 image: /images/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg
 template: page
 ---
