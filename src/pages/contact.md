@@ -6,9 +6,8 @@ sections:
     template: section_form
     section_id: contact-form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      Thank you for your interest in my research. Please fill the contact form
+      below and I will get back to you as soon as possible.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -33,15 +32,18 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
+          - Research Interest
+          - Digital Health
+          - Public Health
           - Other
+        is_required: true
       - type: form_field
         template: form_field
         input_type: textarea
         name: message
         label: Message
         default_value: Your message
+        is_required: true
       - type: form_field
         template: form_field
         input_type: checkbox
@@ -49,6 +51,7 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
+        is_required: true
     submit_label: Send Message
 template: advanced
 ---
