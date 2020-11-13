@@ -32,7 +32,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - 'Reserach '
+          - Research Interest
           - Sponsorship
           - Other
       - type: form_field
