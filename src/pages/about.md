@@ -1,7 +1,7 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
+title: About Sami
+subtitle: This is a short page about me and my work.
+image: /images/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg
 template: page
 ---
 
