@@ -33,7 +33,7 @@ sections:
         default_value: Please select
         options:
           - Research Interest
-          - Sponsorship
+          - Digital Health
           - Other
       - type: form_field
         template: form_field
