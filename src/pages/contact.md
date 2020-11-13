@@ -34,8 +34,8 @@ sections:
         options:
           - Research Interest
           - Digital Health
-          - Other
           - Public Health
+          - Other
       - type: form_field
         template: form_field
         input_type: textarea
