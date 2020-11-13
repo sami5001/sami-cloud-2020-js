@@ -69,12 +69,13 @@ sections:
         content: >-
           ## Digitising paper-based clinical records
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          This project aims to develop an integrated solution to digitise
+          paper-based and unstructured data into structured content that is
+          compatible with electronic health records in hospital information
+          systems.
 
-          - Lorem ipsum
 
-          - dolor sit amet
+          _More information coming soon..._
         actions: []
         type: grid_item
         image: /images/google_ai_narrow.png
